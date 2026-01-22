@@ -23,8 +23,7 @@ A visually accurate clone of the **Spotify Web Player** interface. This project 
 
 * `index.html` - The structural markup for the sidebar, content grid, and player.
 * `style.css` - Comprehensive styles including custom scrollbars, hover states, and the playback bar UI.
-* `assets/` - Contains icons and card images for the music categories.
-* `homework assets/` - Contains specific assets for the album and player controls.
+* `assets/` - Contains all the assets from icons and card images for the music categories to the album and player controls.
 
 ## 🚀 Getting Started
 
@@ -33,7 +32,7 @@ A visually accurate clone of the **Spotify Web Player** interface. This project 
     ```bash
     git clone https://github.com/yuzikage/spotify-ui-clone.git
     ```
-2.  **Asset Setup:** Ensure the `./assets/` and `./homework assets/` folders are present with the required images, or replace the `src` paths in the HTML with your own music images.
+2.  **Asset Setup:** Ensure the `./assets/` folder is present with the required images, or replace the `src` paths in the HTML with your own music images.
 
 ### Usage
 Open `index.html` in any modern browser. 
